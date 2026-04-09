@@ -77,7 +77,15 @@ This project analyzes UPI transaction data to identify patterns, trends, and key
 * Device distribution insights
 * Interactive slicers (Bank, Device, Status, Hour)
 
-## Dashboard Preview
+## 📊 Power BI Dashboard
+
+<p align="center">
+  <img src="DASHBOARD.png" width="1000"/>
+</p>
+
+<p align="center">
+  <em>Interactive dashboard analyzing UPI transaction failures across banks, devices, and time.</em>
+</p>
 
 ---
 
